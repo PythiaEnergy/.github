@@ -8,7 +8,7 @@
 Maximize the potential of your renewables
 
 <br>
-**RayCast**
+RayCast
 
 [Documentation](www.raycast.nl)
 [API](www.apiv2.raycast.nl)
