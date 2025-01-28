@@ -4,9 +4,13 @@
 </p>
 
 <div align="center">
+  
 Maximize the potential of your renewables
 
+<br>
 **RayCast**
+
 [Documentation](www.raycast.nl)
 [API](www.apiv2.raycast.nl)
+<br>
 <div align="center">
